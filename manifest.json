@@ -1,6 +1,6 @@
 {
   "short_name": "Invoicer",
-  "name": "Invoicer - FivipSistem",
+  "name": "Fivip",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,7 +19,7 @@
     }
   ],
   "start_url": "/login",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#1b1c1d",
   "background_color": "#1b1c1d"
 }
